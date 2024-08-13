@@ -1,3 +1,18 @@
-boby{
-	background-color: red;
+.box{
+	height: 400px;
+}
+
+.img{
+	object-fit: contain;
+	height: 100px;
+	margin: 10px;
+}
+.description{
+	overflow: hidden;
+	height: 50px;
+}
+
+.title{
+	height: 28px;
+	overflow: hidden;
 }
