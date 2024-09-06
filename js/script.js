@@ -20,7 +20,7 @@ div.classList.add("col-lg-3");
 div.classList.add("p-2");
 row.append(div);
 div.innerHTML = `
-<div class="card box" style="width: 18rem;">
+<div class="card box">
   <img src="${image}" class="card-img-top img">
   <div class="card-body">
     <h5 class="card-title title">${title}</h5>
